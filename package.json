@@ -1,0 +1,27 @@
+{
+  "name": "alertbot",
+  "version": "1.0.0",
+  "description": "send alert about a price in this case BTC, set up your parameter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damivazbien/AlertBot.git"
+  },
+  "keywords": [
+    "simple",
+    "alert",
+    "bot"
+  ],
+  "author": "damivazbien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damivazbien/AlertBot/issues"
+  },
+  "homepage": "https://github.com/damivazbien/AlertBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
