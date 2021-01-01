@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/damivazbien/AlertBot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.50.0"
+    "telegram-bot-api": "^2.0.1"
   }
 }
