@@ -82,7 +82,7 @@ function intervalFunc() {
     })
 }
 
-intervalFunc();
+setInterval(intervalFunc(), 100000000);
 
 
 
